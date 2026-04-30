@@ -7,6 +7,6 @@ The best perfoming model was a LogisticRegression Model
 it's SHAP values were
 
 ## SHAP
-![Image](/shap1.png "Shap 1")
-![Image](/shap2.png "Shap 2")
-![Image](/shap3.png "Shap 3")
+![Shap 1](/shap%201.png)
+![Shap 2](/shap%202.png)
+![Shap 3](/shap3.png "Shap 3")
